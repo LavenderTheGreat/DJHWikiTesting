@@ -1,2 +1,2 @@
 # DJHWikiTesting
-Testing the DJH Wiki's building tool.
+Testing the DJH Wiki's site building tool.
