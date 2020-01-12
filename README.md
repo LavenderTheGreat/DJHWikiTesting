@@ -1,2 +1,2 @@
 # DJHWikiTesting
-Testing the DJH Wiki ANYDIR
+Testing the DJH Wiki's building tool.
