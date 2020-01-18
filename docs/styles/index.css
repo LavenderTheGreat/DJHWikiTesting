@@ -94,6 +94,10 @@ h4{
     font-size: 1.6rem;
 }
 
+.djh-main{
+    text-decoration: underline;
+}
+
 .djh-tag{
     --tagcolor: rgba(255,255,255,1);
     --tagcolora: rgba(255,255,255,0);
